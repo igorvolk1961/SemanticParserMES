@@ -82,5 +82,6 @@ class ForceModel(BaseModel):
     a_5_3_количество_единиц_техники: Optional[int] = Field(default=None)
 ```
 
+<img width="734" height="571" alt="image" src="https://github.com/user-attachments/assets/2c19775b-6a26-41da-9471-ddc3ba704bdd" />
 
 
