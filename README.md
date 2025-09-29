@@ -86,7 +86,7 @@ class ForceModel(BaseModel):
 <img width="734" height="571" alt="image" src="https://github.com/user-attachments/assets/2c19775b-6a26-41da-9471-ddc3ba704bdd" /> 
 <img width="724" height="568" alt="image" src="https://github.com/user-attachments/assets/07d0229c-bd52-4a3f-9ccf-3e3a2196e894" />
 
-## Среднее время инференса на одну сводкув зависимости от числа запросов в пакете
+## Среднее время инференса на одну сводку в зависимости от числа запросов в пакете
 <img width="816" height="637" alt="image" src="https://github.com/user-attachments/assets/9e242ffa-d71c-4ce3-8e0c-c1fc931997d5" />
 
 
