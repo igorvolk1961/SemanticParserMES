@@ -72,6 +72,7 @@
 ## Pydantic Схемы
 Пример класса для валидации данных:
 
+```python
 class ForceModel(BaseModel):
     a_5_1_принадлежность_сил_и_средств: Optional[str] = Field(
         default=None, 
@@ -79,7 +80,7 @@ class ForceModel(BaseModel):
     )
     a_5_2_количество_человек: Optional[int] = Field(default=None)
     a_5_3_количество_единиц_техники: Optional[int] = Field(default=None)
-
+```
 
 
 
