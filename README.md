@@ -82,6 +82,15 @@ class ForceModel(BaseModel):
     a_5_3_количество_единиц_техники: Optional[int] = Field(default=None)
 ```
 
-<img width="734" height="571" alt="image" src="https://github.com/user-attachments/assets/2c19775b-6a26-41da-9471-ddc3ba704bdd" />
+Скорость обработки токенов в зависимости от логарифма числа запросов в пакете<img width="2743" height="140" alt="image" src="https://github.com/user-attachments/assets/a7c045f5-4469-4b28-a7de-8b1fc15ec7f7" />
+
+<img width="734" height="571" alt="image" src="https://github.com/user-attachments/assets/2c19775b-6a26-41da-9471-ddc3ba704bdd" /> <img width="724" height="568" alt="image" src="https://github.com/user-attachments/assets/07d0229c-bd52-4a3f-9ccf-3e3a2196e894" />
+
+Среднее время инференса на одну сводкув зависимости от числа запросов в пакете
+<img width="1434" height="220" alt="image" src="https://github.com/user-attachments/assets/6c561692-b62a-4d6b-af7d-0343668f54d9" />
+
+<img width="816" height="637" alt="image" src="https://github.com/user-attachments/assets/9e242ffa-d71c-4ce3-8e0c-c1fc931997d5" />
+
+
 
 
